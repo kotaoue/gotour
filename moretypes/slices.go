@@ -7,4 +7,7 @@ func main() {
 
 	var s []int = primes[1:4]
 	fmt.Println(s)
+
+	var s2 []int = primes[3:4]
+	fmt.Println(s2)
 }
